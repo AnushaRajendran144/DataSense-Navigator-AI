@@ -48,10 +48,10 @@ The system returns a standardized 4-part report for every query:
 ![Orchestration Canvas Flow](./Screenshot%20(605).png)
 
 ### 2. Strategic Manager Configuration & Prompt Logic
-![Manager Instructions Setup](./Screenshot%20(606).jpg)
+![Manager Instructions Setup](./Screenshot%20(606).png)
 
 ### 3. Deployment & API Endpoint Setup
-![Deployment Page](./Screenshot%20(607).jpg)
+![Deployment Page](./Screenshot%20(607).png)
 
 ### 4. Agent Studio Registry
 ![Agent Overview List](./Screenshot%20(608).png)
