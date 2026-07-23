@@ -15,10 +15,10 @@ An AI-powered Business Intelligence solution designed to eliminate dashboard fat
 
 DataSense Navigator operates using a **Manager-Worker Multi-Agent Architecture**:
 
-*  **Strategic Orchestrator (Manager Agent):** Powered by `gpt-5.4-mini`, it interprets user intent, delegates analytical tasks, and synthesizes final insights.
-*  **Core Metrics Verifier (Worker Agent):** Validates raw numeric data and ensures accurate baseline KPI reporting.
-*  **Trend & Anomaly Detector (Worker Agent):** Identifies performance patterns, outliers, and operational risks.
-*  **Action Trigger (Worker Agent):** Generates concrete, step-by-step recommendations and automated operational alerts.
+* 🧠 **Strategic Orchestrator (Manager Agent):** Powered by `gpt-5.4-mini`, it interprets user intent, delegates analytical tasks, and synthesizes final insights.
+* 🔍 **Core Metrics Verifier (Worker Agent):** Validates raw numeric data and ensures accurate baseline KPI reporting.
+* 📈 **Trend & Anomaly Detector (Worker Agent):** Identifies performance patterns, outliers, and operational risks.
+* ⚡ **Action Trigger (Worker Agent):** Generates concrete, step-by-step recommendations and automated operational alerts.
 
 ---
 
@@ -44,7 +44,14 @@ The system returns a standardized 4-part report for every query:
 
 *(Note: Public live deployment is currently undergoing environment checks.)*
 
-Check out the backend architecture and agent configuration setup:
+### 1. Multi-Agent Orchestration Flow
+![Orchestration Canvas Flow](./Screenshot%20(605).png)
 
-![Agent Connection Canvas](./screenshots/architecture-flow.png)
-![Prompt Rules Setup](./screenshots/prompt-instructions.png)
+### 2. Strategic Manager Configuration & Prompt Logic
+![Manager Instructions Setup](./Screenshot%20(606).jpg)
+
+### 3. Deployment & API Endpoint Setup
+![Deployment Page](./Screenshot%20(607).jpg)
+
+### 4. Agent Studio Registry
+![Agent Overview List](./Screenshot%20(608).png)
